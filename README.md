@@ -21,8 +21,8 @@ Every solution has tradeoffs, and likely works well with one set of constraints 
 
 * Problem Solving using different programming paradigms
   * Object Oriented Programming 
-    - Dynamic Language (Ruby or JavaScript)
-    - Type Language (Java or C#)
+    - Dynamic Typed Language (Ruby or JavaScript)
+    - Static Typed Language (Java or C#)
   * Functional Programming (F#)
   * LISP (Clojure)
 * HTTP
